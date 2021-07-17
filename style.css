@@ -1,0 +1,19 @@
+.form-div {
+    margin:50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 1.1em;
+
+}
+.form p {
+    font-size: .89em;
+}
+
+.form-div.login{
+    margin-top: 100px;
+
+}
+.logout{
+    color: red;
+}
